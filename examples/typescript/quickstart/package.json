@@ -12,11 +12,11 @@
   "main": "dist/index.js",
   "dependencies": {
     "@coinbase/cdp-sdk": "^1.40.1",
-    "viem": "^2.31.0"
+    "viem": "^2.57.2"
   },
   "devDependencies": {
     "@types/node": "^22.15.30",
-    "tsx": "^4.19.4",
+    "tsx": "^4.23.15",
     "typescript": "^5.4.0"
   }
 }
